@@ -1,2 +1,2 @@
 # test
-this is a description of repistory.
+this is a description of repistory of.
